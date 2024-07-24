@@ -1,7 +1,7 @@
-Overview
-This repository contains the code for Reachinbox  App using React with Typescript 
+Overview :
+This repository contains the code for Reachinbox App using Reactjs with Typescript 
 
-Technologies Used 
+Technologies Used :
 Typescript
 React
 Tailwind css
@@ -29,7 +29,7 @@ Delete Email
 
 How to Run:
 Installation
-Clone the repository
+Clone the repository:git clone https://github.com/Varsha-bh/Reachinbox-.git
 Navigate to the project directory: cd reachinbox
 Install the dependencies: npm install
 Start the development server: npm run start
